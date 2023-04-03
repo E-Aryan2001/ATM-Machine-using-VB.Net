@@ -1,0 +1,33 @@
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\bin\Debug\atm 3.exe
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\bin\Debug\atm 3.pdb
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\bin\Debug\atm 3.xml
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.Form1.resources
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.MMENU.resources
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.Resources.resources
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm 3.vbproj.GenerateResource.Cache
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm 3.exe
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm 3.xml
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm 3.pdb
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.TELER.resources
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.TTRANSFER.resources
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.TTTRANSFER.resources
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.BBALANCE.resources
+C:\Users\Windows10\Documents\Visual Studio 2008\Projects\atm 3\atm 3\obj\Debug\atm_3.WWWITHDRAW.resources
+E:\Project\atm 3\atm 3\bin\Debug\atm 3.exe
+E:\Project\atm 3\atm 3\bin\Debug\atm 3.pdb
+E:\Project\atm 3\atm 3\bin\Debug\atm 3.xml
+E:\Project\atm 3\atm 3\obj\Debug\atm 3.vbproj.AssemblyReference.cache
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.BBALANCE.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.Form1.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.MMENU.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.Resources.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.TELER.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.TTRANSFER.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.TTTRANSFER.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm_3.WWWITHDRAW.resources
+E:\Project\atm 3\atm 3\obj\Debug\atm 3.vbproj.GenerateResource.cache
+E:\Project\atm 3\atm 3\obj\Debug\atm 3.vbproj.CoreCompileInputs.cache
+E:\Project\atm 3\atm 3\obj\Debug\atm 3.exe
+E:\Project\atm 3\atm 3\obj\Debug\atm 3.xml
+E:\Project\atm 3\atm 3\obj\Debug\atm 3.pdb
